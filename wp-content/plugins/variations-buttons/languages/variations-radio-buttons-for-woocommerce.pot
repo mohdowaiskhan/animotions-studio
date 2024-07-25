@@ -1,0 +1,756 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-11-03 19:59-0700\n"
+"PO-Revision-Date: 2021-03-20 20:32-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Admin/AbstractPage.php:70 includes/Admin/AbstractPageForm.php:138
+#: includes/Admin/AbstractPageForm.php:216
+#: includes/Admin/AbstractPageTab.php:113
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/Admin/AbstractPageForm.php:113
+msgid "Form data have been successfully saved"
+msgstr ""
+
+#: includes/Admin/AbstractPageForm.php:121
+msgid "Unable to save form data"
+msgstr ""
+
+#: includes/Admin/Form.php:669
+msgid "Hard crop?"
+msgstr ""
+
+#: includes/Admin/Form.php:723
+msgid "Choose a country&hellip;"
+msgstr ""
+
+#: includes/Admin/Form.php:723 includes/Admin/Form.php:748
+msgid "Country"
+msgstr ""
+
+#: includes/Admin/Form.php:748
+msgid "Choose countries&hellip;"
+msgstr ""
+
+#: includes/Admin/Form.php:756
+msgid "Select all"
+msgstr ""
+
+#: includes/Admin/Form.php:756
+msgid "Select none"
+msgstr ""
+
+#: includes/Admin/Form.php:765
+msgid "Day(s)"
+msgstr ""
+
+#: includes/Admin/Form.php:766
+msgid "Week(s)"
+msgstr ""
+
+#: includes/Admin/Form.php:767
+msgid "Month(s)"
+msgstr ""
+
+#: includes/Admin/Form.php:768
+msgid "Year(s)"
+msgstr ""
+
+#: includes/Admin/FormFilter.php:111
+msgid " is invalid"
+msgstr ""
+
+#: includes/Admin/Notices.php:211
+msgid "Dismiss"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:221
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:247
+msgid "About Us"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:255
+msgid "Contact Us"
+msgstr ""
+
+#: includes/Utils/PluginDependency.php:68
+msgid "requires the following plugins to be installed and activated:"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:27
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:76
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:88
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:98
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:108
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:120
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:133
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:175
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:222
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:32
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:281
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:295
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:306
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:317
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:330
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:344
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:386
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:452
+msgid "Use global settings"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:28
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:223
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:33
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:453
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:57
+msgid "Do not display"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:67
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:94
+msgid "Radio Buttons and Swatches"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:68
+msgid "Customize look and behavior of this attribute."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:74
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:77
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:279
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:282
+msgid "Enabled"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:78
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:283
+msgid "Disabled"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:86
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:292
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:86
+msgid "Attribute Label Location"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:96
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:303
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:94
+msgid "Selection Style"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:106
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:314
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:102
+msgid "Options Orientation"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:109
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:318
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:105
+msgid "Vertical"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:110
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:319
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:106
+msgid "Horizontal"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:118
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:327
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:113
+msgid "What to Display in Tooltip?"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:121
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:331
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:116
+msgid "Nothing"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:122
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:332
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:117
+msgid "Term Name"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:123
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:333
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:118
+msgid "Term Description"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:131
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:341
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:124
+msgid "Tooltip Location"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:134
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:345
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:127
+#: includes/VariationsRadioButtons/Plugin.php:44
+msgid "Top"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:135
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:346
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:128
+msgid "Bottom"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:142
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:353
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:134
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:683
+msgid "Border Radius"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:152
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:363
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:144
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:235
+msgid "Width"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:162
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:373
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:154
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:247
+msgid "Height"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:172
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:383
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:164
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:729
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:176
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:387
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:168
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:733
+#: includes/VariationsRadioButtons/Plugin.php:43
+msgid "Left"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:177
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:388
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:169
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:734
+msgid "Right"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:178
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:389
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:170
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:735
+msgid "Center"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:179
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:390
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:171
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:736
+msgid "Justify"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:188
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:399
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:179
+msgid "Display Thumbnail Priority"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:196
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:408
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:188
+msgid "Display Name Priority"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:204
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:428
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:197
+msgid "Display Stock Priority"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:212
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:437
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:206
+msgid "Display Price Priority"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:220
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:449
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:215
+msgid "Display Attribute Description"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/AttributeSettingsForm.php:224
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:454
+msgid "Display"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/ProductSettingsForm.php:101
+msgid "Customize look and behavior of attribute selectors of this product."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:29
+msgid "Settings have been successfully saved"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:69
+msgid "Configure how do you want Variations Radio Buttons plugin to behave."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:70
+msgid ""
+"You can configure color and image used by options in Products -> Attributes -"
+"> Configure Terms -> Edit Term"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:71
+msgid ""
+"You can customize these settings for each Attribute in Products -> "
+"Attributes -> Edit Attribute"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:78
+msgid "Enable by Default"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:81
+msgid "If unchecked you will have to enable it per product."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:89
+msgid "Where attribute label (name) should be displayed."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:97
+msgid "What kind of selector should be used."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:108
+msgid "Choose if you want options to be displayed vertically or horizontally."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:139
+msgid ""
+"Make selectors more rounded. It will accept px, em, pt and % as a unit. E.g. "
+"50%"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:149
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:159
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:212
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:241
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:253
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:296
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:308
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:320
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:354
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:366
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:448
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:506
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:564
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:677
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:689
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:723
+msgid ""
+"Numeric value immediately followed by the unit. Supported units are px, em, "
+"pt, %. Eg. 5px"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:167
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:732
+msgid "Do not change"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:174
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:284
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:342
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:436
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:494
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:552
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:665
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:711
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:739
+msgid "Choose one of the options listed in the dropdown"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:183
+msgid ""
+"Thumbnail can only be displayed for the products with the single attribute "
+"or when term has an image attached to it"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:192
+msgid "Specify the order in which option name will be displayed"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:201
+msgid "Stock can only be displayed for the products with the single attribute."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:210
+msgid "Price can only be displayed for the products with the single attribute"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:218
+msgid "Display term description under option name."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsForm.php:228
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:107
+msgid "Save Changes"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsTab.php:31
+#: includes/VariationsRadioButtons/Plugin.php:129
+msgid "Settings"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsTab.php:42
+msgid ""
+"Let your customers choose product variations using radio buttons instead of "
+"dropdowns."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsTab.php:44
+msgid "Do you have any questions or requests?"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/SettingsTab.php:46
+msgid "Do you like our plugin and can recommend to others?"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:32
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:44
+msgid "Use system default"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:33
+msgid "Normal"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:34
+msgid "Lighter"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:35
+msgid "Bold"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:36
+msgid "Bolder"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:45
+msgid "Dotted"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:46
+msgid "Solid"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:47
+msgid "Double"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:48
+msgid "Dashed"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:58
+msgid "Styles have been successfully saved"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:75
+msgid "General"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:82
+msgid "Enable Styles"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:85
+msgid "Do you want the following styles be enabled?"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:195
+msgid "Radio Button Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:200
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:273
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:331
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:425
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:483
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:541
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:606
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:654
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:700
+msgid ""
+"Choose a desired color with the color picker or enter it as a six hex digits "
+"long color code prefixed with #"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:206
+msgid "Radio Button Size"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:268
+msgid "Inner Border Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:279
+msgid "Inner Border Style"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:290
+msgid "Inner Border Width"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:302
+msgid "Thumbnail Width"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:314
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:326
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:337
+msgid "Thumbnail Border Style"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:348
+msgid "Thumbnail Border Width"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:360
+msgid "Thumbnail Border Radius"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:372
+msgid "Thumbnail Left Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:378
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:390
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:402
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:414
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:460
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:472
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:518
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:530
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:576
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:588
+msgid ""
+"Numeric value immediately followed by the unit. Alternatively you can use "
+"auto as a value. Supported units are px, em, pt, %. Eg. 5px or auto"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:384
+msgid "Thumbnail Right Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:396
+msgid "Name Left Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:408
+msgid "Name Right Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:420
+msgid "Stock Font Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:431
+msgid "Stock Font Weight"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:442
+msgid "Stock Font Size"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:454
+msgid "Stock Left Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:466
+msgid "Stock Right Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:478
+msgid "Price Font Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:489
+msgid "Price Font Weight"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:500
+msgid "Price Font Size"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:512
+msgid "Price Left Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:524
+msgid "Price Right Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:536
+msgid "Description Font Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:547
+msgid "Description Font Weight"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:558
+msgid "Description Font Size"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:570
+msgid "Description Left Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:582
+msgid "Description Right Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:601
+msgid "Background Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:612
+msgid "Opacity"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:618
+msgid "Numeric value"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:625
+msgid "Margin"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:631
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:643
+msgid ""
+"Numeric values immediately followed by the unit with space between them. Eg. "
+"5px 10px 5px 10px"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:637
+msgid "Padding"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:649
+msgid "Border Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:660
+msgid "Border Style"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:671
+msgid "Border Width"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:695
+msgid "Font Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:706
+msgid "Font Weight"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesForm.php:717
+msgid "Font Size"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesTab.php:31
+msgid "Styles"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/StylesTab.php:43
+msgid ""
+"Here you can overwrite default / global style settings. If value is not set "
+"then previous or default value will be used."
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/TermExtras.php:123
+msgid "Color"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/TermExtras.php:132
+msgid "Image"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Admin/TermExtras.php:133
+msgid "Upload an Image"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:36
+#: includes/VariationsRadioButtons/Plugin.php:42
+msgid "WooCommerce Default"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:37
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:38
+msgid "Swatches"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:68
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:157
+msgid "The following feature requires"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:159
+msgid "PRO Version"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:410
+msgid "In stock"
+msgstr ""
+
+#: includes/VariationsRadioButtons/Plugin.php:410
+msgid "Out of stock"
+msgstr ""
+
+#: variations-radio-buttons-for-woocommerce.php:28
+msgid "Radio Buttons and Swatches for WooCommerce"
+msgstr ""
